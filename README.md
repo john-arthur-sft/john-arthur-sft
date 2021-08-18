@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @john-arthur-sft
-- 👀 I’m interested in coding and music
-- 🌱 I’m currently learning java,c++
-- 📫 you can reach me via
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning c++
+- 📫 you can reach me via : 2684john.arthur@gmail.com
+- Knows MySQL database management
 
- Instagram : enthustiatic_programming
- 
- Gmail : 2684john.arthur@gmail.com
+- [python basic-converted.pdf](https://github.com/john-arthur-sft/john-arthur-sft/files/7004108/python.basic-converted.pdf)
+
