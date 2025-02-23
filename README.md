@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @john-arthur-sft
 - 👀 I’m interested in coding 
 - 🌱 Currently studying B.tech Biomedical Engineering
-- 📫 you can reach me via : 26john8.arthur@gmail.com
+- 📫 you can reach me via : johnarthur1638.bme@gmail.com
